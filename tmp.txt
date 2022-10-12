@@ -1,0 +1,36 @@
+<ul class="zahlen">
+          <li>
+            <ul class="zahl">
+              <li><div class="number">24</div></li>
+              <li><div class="caption">Besucher <br> gesamt</div></li>
+            </ul>
+          </li>
+          <li>
+            <ul class="zahl">
+              <li><div class="number">24</div></li>
+              <li><div class="caption">Besucher <br> gesamt</div></li>
+            </ul>
+        </li>
+       
+          <li>
+            <ul class="zahl">
+             <li><div class="number">24</div></li>
+             <li><div class="caption">Besucher <br> gesamt</div></li>
+          </ul></li>
+
+        </ul>
+
+
+
+
+        <div class="container">
+      <div class="box_big">
+        <div class="number item_11">24</div>
+        <div class="number item_12">25</div>
+        <div class="number item_13">26</div>
+        <div class="caption item_21">Besucher <br> gesamt</div>
+        <div class="caption item_22">Besucher <br> gesamt</div>
+        <div class="caption item_23">Besucher <br> gesamt</div>
+      </div>
+      
+    </div>
